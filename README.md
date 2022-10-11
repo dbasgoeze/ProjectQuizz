@@ -16,3 +16,7 @@ Just choose a topic and try to answer the randomly selected Question.
 ## Key learning moments
 
 Nothing really. I mean, I learned a lot about Flutter and the inner workings of an old version of riverpod, but in terms of design, I think the lack of freedom really thwarted my learning potential here.
+
+## URL
+
+This project is temporarily published at [quizz.basgoeze.com](http://quizz.basgoeze.com).
